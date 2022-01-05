@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/chia-liu/space-tourism-web)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://chia-liu.github.io/space-tourism-web/index.html)
 
 ## My process
 - Converts website design elements and mockups into CSS, JavaScript (JS), and HTML code
