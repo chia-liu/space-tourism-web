@@ -846,7 +846,7 @@ body{
     background-position: bottom center;
 }
 .home{
-    background-image: url(assets/home/background-home-mobile.jpg);
+    background-image: url(https://ibb.co/K6BGcL8);
 }
 
 /* -destination */
@@ -867,7 +867,7 @@ body{
 @media (min-width: 35rem) {
     .home{
         background-position: center center;
-        background-image: url(assets/home/background-home-tablet.jpg);
+        background-image: url(https://ibb.co/qydmPBp);
     }
     .destination{
       background-position: center center;
@@ -884,7 +884,7 @@ body{
 }
 @media (min-width: 48rem) {
     .home{
-        background-image: url(assets/home/background-home-desktop.jpg);
+        background-image: url(https://ibb.co/ypqqDvL);
     }
     .destination{
       background-image: url(assets/destination/background-destination-desktop.jpg);
