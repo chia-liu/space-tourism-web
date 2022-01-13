@@ -794,7 +794,6 @@ z-index: -1;
 
 tab-list{
   --gap: 2rem;
-  padding: 1.4em;
 }
 
 .dot-indicators > button{
@@ -1124,7 +1123,7 @@ body{
     align-items: start;
   }
   .grid-container--technology > .num-indicators button{
-    padding: 1rem;
+    padding: 1rem 1.4rem;
     text-align: center;
     justify-content: center;
     align-items: center;
