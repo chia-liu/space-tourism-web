@@ -596,7 +596,7 @@ input, button, textarea, select {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    padding : 6.25rem 2em ;
+    padding: 3.5rem 2em;
     text-decoration: none;
 }
 .btn-large::after{
@@ -615,6 +615,12 @@ input, button, textarea, select {
 .btn-large:hover::after, .btn-large:focus::after{
   opacity: 1;
   transform: scale(1.5);
+}
+
+@media (max-width: 35rem){
+    .btn-large{
+       padding : 6.25rem 2em ;
+    }
 }
 
 /* $primary-header -------------- */
@@ -684,7 +690,7 @@ margin-right: 0.6rem;
     z-index: 2000;
     right: 1rem;
     top: 2rem;
-    background-color: transparent;
+    background-color:  hsl(var(--color-white)/.2);
     background-image: url(assets/shared/icon-hamburger.svg);
     background-repeat: no-repeat;
     width: 1.5rem;
