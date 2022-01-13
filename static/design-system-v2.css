@@ -794,6 +794,7 @@ z-index: -1;
 
 tab-list{
   --gap: 2rem;
+  padding: 1.4em;
 }
 
 .dot-indicators > button{
