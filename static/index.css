@@ -253,7 +253,7 @@ select {
 /* Compontents         */
 /* ------------------- */
 
-.large-button {
+.btn-large {
     font-size: 2rem;
     position: relative;
     z-index: 1;
@@ -265,7 +265,7 @@ select {
     text-decoration: none;
 }
 
-.large-button::after {
+.btn-large::after {
     content: '';
     position: absolute;
     z-index: -1;
@@ -277,8 +277,8 @@ select {
     transition: opacity 500ms linear, transform 750ms ease-in-out;
 }
  
-.large-button:hover::after,
-.large-button:focus::after {
+.btn-large:hover::after,
+.btn-large:focus::after {
     opacity: 1;
     transform: scale(1.5);
 }
