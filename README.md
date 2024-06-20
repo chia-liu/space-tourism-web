@@ -78,7 +78,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@chia-liu](https://www.frontendmentor.io/profile/chia-liu)
 - Github - [@chia-liu](https://github.com/chia-liu)
 
 
